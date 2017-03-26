@@ -1,0 +1,15 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#IDEA
+.idea
+spring-custom-event/src/test/
+spring-custom-event/target/generated-sources/
+spring-custom-event/target/maven-archiver/
+spring-custom-event/target/maven-status/
+src/test/
+target/
